@@ -1,7 +1,6 @@
 {
   "name": "javascript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,7 @@
   "homepage": "https://github.com/burningbaji/javascript#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
